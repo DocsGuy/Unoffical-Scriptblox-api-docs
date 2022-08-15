@@ -3,8 +3,7 @@
 - Upload scripts
 
 # Json/Headers:
-- ```lua
-captcha: "" -- captcha idk, how to automate this process, just use the recaptcha api ig?
+- ```captcha: "" -- captcha idk, how to automate this process, just use the recaptcha api ig?
 features: "Test" -- features
 gameLink: "" -- game link
 image: "your image" -- you can prb. remove that when it isn't unversial
@@ -14,5 +13,4 @@ scriptType: "free"
 tags: []
 title: "Test"
 verified: false
-visibility: "private" -- or "Unlisted" or "Public"
-```
+visibility: "private" -- or "Unlisted" or "Public"```
