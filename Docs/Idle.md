@@ -2,6 +2,4 @@
 
 # About:
 - Sets you idle (I think)
-- ```
-https://scriptblox.com/api/ping/idle
-```
+- ```https://scriptblox.com/api/ping/idle```
