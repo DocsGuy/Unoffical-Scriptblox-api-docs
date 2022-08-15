@@ -5,3 +5,6 @@
 - scriptblox is a website where you can upload your scripts for other people!
 - You can also promote your script
 - It also has some unique features
+
+# Are these docs by Scriptblox?
+- No
