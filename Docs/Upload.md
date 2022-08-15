@@ -1,6 +1,7 @@
 # Name: Upload
 # About:
 - Upload scripts
+- ```https://scriptblox.com/api/script/upload```
 
 # Json/Headers:
 ```lua
