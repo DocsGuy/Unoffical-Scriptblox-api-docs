@@ -2,6 +2,7 @@
 # About:
 - Upload scripts
 - ```https://scriptblox.com/api/script/upload```
+- Note: You will need to provide a cookie while using this since you need an account to upload it on
 
 # Json/Headers:
 ```lua
