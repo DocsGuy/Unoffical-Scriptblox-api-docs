@@ -5,5 +5,5 @@
 
 # Json/Headers:
 ```
-{"scriptId":"you gotta get it somehow","text":"your test","captcha":"captcha solver?"}
+{"scriptId":"you gotta get it ","text":"your test","captcha":"captcha solver?"}
 ```
