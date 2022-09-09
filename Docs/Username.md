@@ -1,4 +1,4 @@
-# Username
+# Name: Username
 # About:
 - check for a certain username
 
