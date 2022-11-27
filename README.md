@@ -7,4 +7,4 @@
 - It also has some unique features
 
 # Are these docs by Scriptblox?
-- No
+- No. They are made by SoloDev#7416
