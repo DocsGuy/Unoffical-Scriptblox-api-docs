@@ -9,6 +9,6 @@
 ```python
 import requests
 jsonData = {"email":"testmail@gmail.com"}
-headers = {"Authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzODM5YjA3ZTk4MjU1MjRkMDFjOTNkZiIsInJlc2V0UGFzc3dvcmQiOnRydWUsImVtYWlsIjoic2l4b2JlMTA4OUBydWJlc2hpLmNvbSIsImlhdCI6MTY2OTU3MTA1MCwiZXhwIjoxNjY5NTcxNjUwfQ.JHJ0-rBoaum0ZTU5M2rls2XmCh2uZXMXrPCg4VfLHmE"} # this a test token so don't evne try to use it
+headers = {"Authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzODM5YjA3ZTk4MjU1MjRkMDFjOTNkZiIsInJlc2V0UGFzc3dvcmQiOnRydWUsImVtYWlsIjoic2l4b2JlMTA4OUBydWJlc2hpLmNvbSIsImlhdCI6MTY2OTU3MTA1MCwiZXhwIjoxNjY5NTcxNjUwfQ.JHJ0-rBoaum0ZTU5M2rls2XmCh2uZXMXrPCg4VfLHmE"} # this a test token so don't even try to use it
 requests.post(url="https://scriptblox.com/api/user/reset-password",json=jsonData,headers=headers)
 ```
