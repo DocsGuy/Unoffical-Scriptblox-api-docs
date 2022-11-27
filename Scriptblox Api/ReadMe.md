@@ -4,7 +4,7 @@
 
 # Note:
 - One note tho. Everything that I put in brackets and that I not like put any comment to it (e.g a comment with header) to it then it's the json data.
-- If you try to request something and it doesn't work try adding this authorization to the headers 
+- If you try to request something and it doesn't work try adding authorization to the headers 
 - Example how to use the json data (in py):
 ```python
 import requests
